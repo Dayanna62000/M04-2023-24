@@ -1,0 +1,48 @@
+.m04 {
+    background-color: rgb(157, 252, 188);
+}
+.dias {
+    background-color: rgb(255, 235, 205);
+}
+.m02{
+    background-color: rgb(255, 214, 175);
+}
+.m03{
+    background-color: rgb(197, 250, 153);
+}
+.m01 {
+    background-color: rgb(253, 170, 170);
+}
+.horas{
+    background-color: rgb(255, 235, 205);
+}
+.m05{
+    background-color: rgb(160, 252, 255);
+}
+.break{
+    background-color: rgb(255, 235, 205);
+}
+.m12{
+    background-color: rgb(194, 208, 248);
+}
+.m13{
+    background-color: rgb(214, 180, 253);
+}
+.tut{
+    background-color: rgb(221, 188, 248);
+}
+table{
+    background-color: rgb(252, 188, 212);
+    margin: auto;
+    width: 80%;
+    height: 500px;
+}
+body{
+    background-image: url(superStar.jpg); 
+    -webkit-transform: rotate(120);
+    -moz-transform: rotate(120);
+    font-size: x-large;
+}
+h1{
+    color: bisque;
+}
